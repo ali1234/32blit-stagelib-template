@@ -1,18 +1,17 @@
-# 32Blit Boilerplate
+# 32Blit StageLib Template
 
-![Build](https://github.com/32blit/32blit-boilerplate/workflows/Build/badge.svg)
+![Build](https://github.com/ali1234/32blit-stagelib-template/workflows/Build/badge.svg)
 
 This is a basic template for starting 32blit projects. It shows the basic
 code layout and asset pipeline, hopefully giving folk a starting point for
 any new projects.
 
-It's based on the original `template` project from the 
-[32Blit Beta](https://github.com/pimoroni/32blit-beta), with added asset
-handling, and some tidying up to fit in with how I do things.
+It is based on [32blit-boilerplate](https://github.com/32blit/32blit-boilerplate)
+with [StageLib](https://github.com/ali1234/32blit-stagelib) integrated into the build.
 
 ## Usage
 
-[Use this template](https://github.com/32blit/32blit-boilerplate/generate) to
+[Use this template](https://github.com/ali1234/32blit-stagelib-template/generate) to
 generate your own project.
 
 * Edit the CMakeList.txt file to set the name of your project
